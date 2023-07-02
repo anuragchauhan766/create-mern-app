@@ -1,0 +1,24 @@
+{
+  "name": "@anurag/create-mern-app",
+  "version": "0.0.1",
+  "description": "A simple MERN boilerplate with typescript setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://github.com/anuragchauhan766/mern-app-template#readme",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/anuragchauhan766/mern-app-template"
+  },
+  "keywords": [
+    "mern",
+    "boilerplate",
+    "react"
+  ],
+  "author": "Anurag Singh Chauhan",
+  "license": "ISC"
+}
