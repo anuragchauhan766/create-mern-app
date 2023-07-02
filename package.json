@@ -1,5 +1,5 @@
 {
-  "name": "@anurag/create-mern-app",
+  "name": "@devasc/create-mern-app",
   "version": "0.0.2",
   "description": "A simple MERN boilerplate with typescript setup",
   "main": "index.js",
