@@ -1,6 +1,6 @@
 {
   "name": "@anurag/create-mern-app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple MERN boilerplate with typescript setup",
   "main": "index.js",
   "scripts": {
@@ -9,10 +9,10 @@
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/anuragchauhan766/mern-app-template#readme",
+  "homepage": "https://github.com/anuragchauhan766/create-mern-app#readme",
   "repository": {
-    "type": "github",
-    "url": "https://github.com/anuragchauhan766/mern-app-template"
+    "type": "git",
+    "url": "https://github.com/anuragchauhan766/create-mern-app.git"
   },
   "keywords": [
     "mern",
