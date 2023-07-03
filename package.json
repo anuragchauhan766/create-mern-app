@@ -1,13 +1,13 @@
 {
-  "name": "@devasc/create-mern-app",
-  "version": "0.0.2",
+  "name": "create-mern-app-ts",
+  "version": "0.0.1",
   "description": "A simple MERN boilerplate with typescript setup",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "bin": "bin/index.js",
   "publishConfig": {
     "access": "public"
+  },
+  "scripts": {
+    "start": "cd api && npm i; cd client && npm i"
   },
   "homepage": "https://github.com/anuragchauhan766/create-mern-app#readme",
   "repository": {
