@@ -1,6 +1,6 @@
 {
   "name": "create-mern-app-ts",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A simple MERN boilerplate with typescript setup",
   "bin": "bin/index.js",
   "publishConfig": {
