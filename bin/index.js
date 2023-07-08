@@ -38,8 +38,9 @@ runCommand(gitclone);
 // Remove the .git folder from the cloned repository
 try {
   fs.rmSync(path.join(projectPath, ".git"), { recursive: true });
+  fs.rmSync(path.join(projectPath, "bin"), { recursive: true });
 } catch (error) {
-  console.error("Error removing .git folder:", error.message);
+  console.error("Error removing folder:", error.message);
   process.exit(1);
 }
 
